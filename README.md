@@ -21,5 +21,6 @@ The project demonstrates important AI and programming concepts such as user pref
 This project is useful for understanding the fundamentals of recommendation engines used in platforms like Netflix, Amazon, YouTube, and Spotify.
 
 output image
+
 <img width="473" height="276" alt="image" src="https://github.com/user-attachments/assets/6749d13e-94ee-4748-844a-f2e7201a54b0" />
 
